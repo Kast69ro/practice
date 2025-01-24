@@ -1,0 +1,7 @@
+.one{
+    background-image: url(../image/IMAGE\ \(28\).png);
+    height: 80vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+@import url('https://fonts.googleapis.com/css2?family=Yellowtail&display=swap');
