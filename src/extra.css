@@ -1,7 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Yellowtail&display=swap');
 .one{
     background-image: url(../image/IMAGE\ \(28\).png);
-    height: 80vh;
+    height: 85vh;
     background-size: cover;
     background-repeat: no-repeat;
 }
-@import url('https://fonts.googleapis.com/css2?family=Yellowtail&display=swap');
+
+.two{
+    font-family: "Yellowtail", serif;
+
+}
