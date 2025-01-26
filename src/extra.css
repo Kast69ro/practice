@@ -9,4 +9,10 @@
 .two{
     font-family: "Yellowtail", serif;
 
+} 
+.four{
+    background-image: url(../image/IMAGE\ \(38\).png);
+    height: 120vh;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
