@@ -887,6 +887,26 @@ video {
   padding: px;
 }
 
+.p-\[_50px\] {
+  padding: 50px;
+}
+
+.p-\[100px_50px\] {
+  padding: 100px 50px;
+}
+
+.p-\[10px_50px\] {
+  padding: 10px 50px;
+}
+
+.p-\[50px_50px\] {
+  padding: 50px 50px;
+}
+
+.p-\[1000px_50px\] {
+  padding: 1000px 50px;
+}
+
 .text-center {
   text-align: center;
 }
